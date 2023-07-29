@@ -74,4 +74,5 @@ main{
     text-align: center;
     display: flex;
     align-items: center;
+    border: 2px solid black;
 }
